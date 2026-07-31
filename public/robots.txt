@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adarsh-hp-gas.vercel.app/sitemap.xml
+
