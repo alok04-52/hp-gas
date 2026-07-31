@@ -137,7 +137,7 @@ function App() {
                 <a href="#enquiry" className="bg-gradient-to-r from-orange-600 to-red-600 text-white px-7 py-3 rounded-full font-bold shadow-xl hover:from-orange-700 hover:to-red-700 transition-all hover:scale-105 btn-ripple">
                   📝 Online Enquiry Karein
                 </a>
-                <a href="https://wa.me/919794503109?text=Namaskar!%20Mujhe%20HP%20Gas%20ke%20baare%20mein%20jaankari%20chahiye." target="_blank" rel="noreferrer" className="bg-green-600 text-white px-7 py-3 rounded-full font-bold shadow-xl hover:bg-green-700 transition-all hover:scale-105">
+                <a href="https://wa.me/9956612199?text=Namaskar!%20Mujhe%20HP%20Gas%20ke%20baare%20mein%20jaankari%20chahiye." target="_blank" rel="noreferrer" className="bg-green-600 text-white px-7 py-3 rounded-full font-bold shadow-xl hover:bg-green-700 transition-all hover:scale-105">
                   💬 WhatsApp Karein
                 </a>
                 <a href="#owner-contact" className="bg-gray-900 p-6 text-gray-100 backdrop-blur-sm border border-slate-600 text-gray-200 px-7 py-3 rounded-full font-semibold hover:bg-slate-600/80 transition-all">
